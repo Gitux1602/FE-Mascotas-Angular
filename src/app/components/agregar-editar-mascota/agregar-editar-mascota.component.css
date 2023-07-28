@@ -1,0 +1,16 @@
+.card{
+    margin-top: 20px;
+}
+.mat-form-field {
+    width: 100%;
+    margin: 5px;
+}
+.subtitle {
+    padding: 30px;
+    background-color: hsl(261, 71%, 70%);
+    text-align: center;
+    color: white;
+}
+.separar {
+    margin-right: 20px;
+}
